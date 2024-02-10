@@ -1,18 +1,9 @@
-# Aisha-rajput-
-pkg update && pkg upgrade
-
+# Aisha-rajput-pkg update 
 pkg install git
-
-pkg install python
-
-pip install rich
-
+pkg instal python
+pip install rich 
 pip install bs4
-
-pip install requests
-
-git clone https://github.com/arushirajpu/aisha 
-
-cd Aisha 
-
+pip install request
+git clone http://github.com/arushirajpu /sakura
+cd sakura
 python join.py
